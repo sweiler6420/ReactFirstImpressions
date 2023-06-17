@@ -9,7 +9,7 @@ export default function About() {
             </p>
             <h3 className="interest-title" >Interests</h3>
             <p className="interest-text">
-            Fisher. Gamer. Coder. Carpenter. Renovator. Car enthusiast.
+                Fisher. Gamer. Coder. Carpenter. Renovator. Car enthusiast.
             </p>
         </div>
     )
